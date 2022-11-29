@@ -1,12 +1,12 @@
-const nemo = ['nemo'];
+const emplyees = ['John'];
 
-function findNemo(array) {
+function findEmployee(array) {
   for (let i = 0; i < array.length; i++) {
-    if (array[i] === 'nemo') {
-      console.log('Found Nemo!')
+    if (array[i] === 'John') {
+      console.log('Found John!')
     }
   }
 }
 
 // Exporting variables and functions
-export { nemo, findNemo };
+export { emplyees, findEmployee };

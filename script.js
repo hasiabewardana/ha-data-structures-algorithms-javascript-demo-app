@@ -1,5 +1,5 @@
 // Importing variables and functions
-import { nemo, findNemo } from './scripts/big-o/good-code.js'
+import { emplyees, findEmployee } from './scripts/big-o/good-code.js'
 
 // Calling functions
-findNemo(nemo);
+findEmployee(emplyees);
