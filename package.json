@@ -1,0 +1,13 @@
+{
+  "name": "ha-data-structures-algorithms-javascript-demo-app",
+  "version": "1.0.0",
+  "description": "This project consists of all data structures and algorithms in JavaScript.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hasiabewardana <hasi.prasanga@gmail.com>",
+  "license": "MIT"
+}
