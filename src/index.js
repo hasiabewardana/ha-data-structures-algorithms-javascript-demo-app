@@ -1,12 +1,12 @@
 // ### Importing variables and functions ###
 // Good code
-// import { emplyees, findEmployee } from './components/big-o/good-code.js'
+// import { emplyees, findEmployee } from './components/bigO/goodCode.js'
 
 // Scalability
-// import { emplyees, moreEmplyees, allEmployees, findEmployee } from './components/big-o/scalability.js'
+// import { emplyees, moreEmplyees, allEmployees, findEmployee } from './components/bigO/scalability.js'
 
 // Data structures
-import {demoMathPow} from './components/data-structures/demo-math-pow.js'
+import {demoMathPow} from './components/dataStructures/demoMathPow.js'
 
 // Calling functions
 // Good code
